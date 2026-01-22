@@ -45,8 +45,8 @@ Click the badge below to open the notebook directly in Google Colab:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/easyocr-custom-training.git
-cd easyocr-custom-training
+git clone https://github.com/AbdullahButt2611/EasyOCR-Custom-Training.git
+cd EasyOCR-Custom-Training
 ```
 
 2. **Install dependencies**
