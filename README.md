@@ -285,8 +285,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you find this repository helpful, please consider giving it a star! It helps others discover this resource.
 
----
-
 **Made with ❤️ for the OCR community**
 
 *Last updated: January 2026*
